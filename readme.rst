@@ -32,11 +32,13 @@ Composer
 Installation
 ************
 
-Clone/download this Repository ...
+Clone/download this Repository `Blade-CodeIgniter
+<https://github.com/Jineshfrancisco/Blade-CodeIgniter>`_ ...
 thats it
 
 *******
-License
+License `Click Here
+<https://github.com/Jineshfrancisco/Blade-CodeIgniter/blob/master/License>`_
 *******
 
 Please see the `license
